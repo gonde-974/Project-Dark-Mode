@@ -14,7 +14,7 @@ function App() {
      <div className={`${darkMode ? 'dark' : ''}`}>
       <ToggleModeComponent darkMode={darkMode} setDarkMode={setDarkMode}/>
 
-      <div className='w-[1500px] h-[600px] bg-blue-500 dark:bg-black'></div>
+      <div className='w-[1500px] h-[605px] bg-blue-500 dark:bg-black'></div>
      </div>      
     </>
   )
